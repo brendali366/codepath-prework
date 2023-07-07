@@ -450,4 +450,4 @@ App Idea:
     
 GIF:
 
-[x](https://i.imgur.com/NqBAJDL.gif)
+![x](https://i.imgur.com/NqBAJDL.gif)
